@@ -1,10 +1,13 @@
 {
-  "name": "x1vWtolotuskUN8iUgOZ3O0EH5JHgmkMAWernVL6IxPaWqvobt",
+  "name": "โบนัส - เว็บพนัน sawan888(สวรรค์888) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.8",
   "description": "โบนัส เว็บสล็อตอันดับ อย่างไรก็ดี โบนัส Sawan888 เว็บพนันออนไลน์ อันดับหนึ่ง 1 ของไทย เว็บไซต์ สล็อต ชั้น1 ของโลก ฉันมั่นใจว่าหลายๆคน ค้นหาและก็สงสัยว่าไซต",
   "repository": "https://github.com/gullibles-02/indoor-07",
-  "keywords": ["โบนัส","โบนัส Sawan888"],
+  "keywords": [
+    "โบนัส",
+    "โบนัส Sawan888"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
