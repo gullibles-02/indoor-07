@@ -1,10 +1,13 @@
 {
-  "name": "fvrw2C2A77oyNzh8rVw1Wp2AmYik7vaQMcLYTbcENeGX187Odz",
+  "name": "ค่ายสล็อต - เว็บพนัน chudjenbet(ชัดเจนเบท) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.6",
   "description": "ค่ายสล็อต บาคาร่า ได้แก่ ค่ายสล็อต ที่ Chudjenbet เว็บพนัน อันดับหนึ่ง",
   "repository": "https://github.com/gullibles-02/indoor-07",
-  "keywords": ["ค่ายสล็อต","ค่ายสล็อต Chudjenbet"],
+  "keywords": [
+    "ค่ายสล็อต",
+    "ค่ายสล็อต Chudjenbet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
