@@ -1,10 +1,13 @@
 {
-  "name": "CHSMVCd6FHpVsOo4K4vzf6CgVvBCr5WbhFI2I8mwBxWGVaMmKk",
+  "name": "ค่ายเกมสล็อต - เว็บพนัน 11hilo(11ไฮโล) สมัครฟรี เครดิตฟรี ที่นี้",
   "theme": "syntax",
   "version": "1.0.5",
   "description": "ค่ายเกมสล็อต เพราะเว็บไซต์ ตาม ค่ายเกมสล็อต ที่ 11Hilo เว็บพนัน มีเกมพนันทุกชนิด Joker939 Slot ของเรานั้นสามรถทำเงินให้กับเหล่านักเดิมพันได้เป็นอย่างดีที่ส",
   "repository": "https://github.com/gullibles-02/indoor-07",
-  "keywords": ["ค่ายเกมสล็อต","ค่ายเกมสล็อต 11Hilo"],
+  "keywords": [
+    "ค่ายเกมสล็อต",
+    "ค่ายเกมสล็อต 11Hilo"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
