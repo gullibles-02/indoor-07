@@ -1,10 +1,13 @@
 {
-  "name": "m4BvLIC9rZYvUtMhdScBQGrdn9owx1irbUVXdvJTMosc0n35FV",
+  "name": "ปั่นสล็อต แตกต่างกันอย่างไร",
   "theme": "syntax",
   "version": "1.0.10",
   "description": "ปั่นสล็อต Aเว็บที่ไม่ผ่านตัวแทนใดๆ ปั่นสล็อต ถึง ปั่นสล็อต BKK999 เว็บพนันออนไลน์ อันดับหนึ่ง เว็บที่ให้อัตราการจ่ายที่สูงและเล่นง่านไม่ซับซ้อน",
   "repository": "https://github.com/gullibles-02/indoor-07",
-  "keywords": ["ปั่นสล็อต","ปั่นสล็อต BKK999"],
+  "keywords": [
+    "ปั่นสล็อต",
+    "ปั่นสล็อต BKK999"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
