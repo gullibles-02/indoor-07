@@ -1,22 +1,10 @@
 {
-  "name": "สถิติหวย 5 ปี 1 ธันวาคม เล่นที่ไหน - เว็บใหม่ thailotto 2023 ล่าสุด-",
+  "name": "IkeE2UDrCntQXYJCqWC3yq4LxsukzDW9zjr3d7jg7Lw7NeeQaq",
   "theme": "syntax",
   "version": "1.0.68",
   "description": "สถิติหวย 5 ปี 1 ธันวาคม เลขเด็ดที่เว็บไซต์หวยไทยของเราจะนำเสนอเป็นแนวทางสลากกินแบ่งรัฐบาล โดย สถิติหวย 5 ปี 1 ธันวาคม Thailotto ไทยล็อตโต้ หวยออนไลน์ มีหวย",
   "repository": "https://github.com/gullibles-02/indoor-07",
-  "keywords": [
-    "สถิติหวย 5 ปี 1 ธันวาคม",
-    "สถิติหวย",
-    "5",
-    "ปี",
-    "1",
-    "ธันวาคม",
-    "สถิติหวย Thailotto",
-    "5 Thailotto",
-    "ปี Thailotto",
-    "1 Thailotto",
-    "ธันวาคม Thailotto"
-  ],
+  "keywords": ["สถิติหวย 5 ปี 1 ธันวาคม","สถิติหวย","5","ปี","1","ธันวาคม","สถิติหวย Thailotto","5 Thailotto","ปี Thailotto","1 Thailotto","ธันวาคม Thailotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
