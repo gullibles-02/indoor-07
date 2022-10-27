@@ -1,10 +1,13 @@
 {
-  "name": "Nx0VPQXhXGHDSzDgcUwFqGSnnZsDiJ3126WwVflypIKIuMPaGS",
+  "name": "จับยี่กีวันนี้ เลือกยังไง - เว็บใหม่ 77lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.39",
   "description": "จับยี่กีวันนี้ สำหรับการซื้อหวยรัฐบาลไทย ครั้น จับยี่กีวันนี้ ที่ 77Lotto เว็บหวยออนไลน์ อันดับหนึ่ง ซื้อหวยออนไลน์ สลากกินแบ่งรัฐบาล หวยใต้ดิน บนเว็บไซต์ ",
   "repository": "https://github.com/gullibles-02/indoor-07",
-  "keywords": ["จับยี่กีวันนี้","จับยี่กีวันนี้ 77Lotto"],
+  "keywords": [
+    "จับยี่กีวันนี้",
+    "จับยี่กีวันนี้ 77Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
