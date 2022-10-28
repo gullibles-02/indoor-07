@@ -1,10 +1,18 @@
 {
-  "name": "IzLqhsxXLxf6h3XxJhByHu9w9MRBKAcVtERUv5hwpfR2rIdsc4",
+  "name": "สูตรหวย สาม รัฐ ดูยังไง - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.98",
   "description": "สูตรหวย สาม รัฐ เลขเด็ดงวดนี้ แต่ สูตรหวย สาม รัฐ Choke โชค หวยออนไลน์ มีหวยทุกชนิด ขอนำเสนอชุดเลขผลงานดี หวยพรเทพ 16462 เข้าต่อเนื่อง 4 งวดซ้อน สูตรหวย สา",
   "repository": "https://github.com/gullibles-02/indoor-07",
-  "keywords": ["สูตรหวย สาม รัฐ","สูตรหวย","สาม","รัฐ","สูตรหวย Choke","สาม Choke","รัฐ Choke"],
+  "keywords": [
+    "สูตรหวย สาม รัฐ",
+    "สูตรหวย",
+    "สาม",
+    "รัฐ",
+    "สูตรหวย Choke",
+    "สาม Choke",
+    "รัฐ Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
