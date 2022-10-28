@@ -1,10 +1,13 @@
 {
-  "name": "PiGrAYgxbFeaUGeae00KfI16V1AikaBejnKOAeOZ4YCvMxcvM5",
+  "name": "ติดหวยฮานอย ดูยังไง - เว็บใหม่ 77lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.90",
   "description": "ติดหวยฮานอย ปกติสลากหรือหวยสดธนาคารจะมีการออกรางวัลบนพื้นฐานของตัวเลข ว่า ติดหวยฮานอย 77Lotto หวยออนไลน์ อันดับหนึ่ง 7 ตำแหน่ง ซึ่งถือว่ามากกว่าสลากกินแบ่ง",
   "repository": "https://github.com/gullibles-02/indoor-07",
-  "keywords": ["ติดหวยฮานอย","ติดหวยฮานอย 77Lotto"],
+  "keywords": [
+    "ติดหวยฮานอย",
+    "ติดหวยฮานอย 77Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
